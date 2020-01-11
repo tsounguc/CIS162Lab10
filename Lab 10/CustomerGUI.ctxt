@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CustomerGUI
+comment0.text=\r\n\ GUI\ front\ end\ for\ lab10\ -\ A\ customer\ database\r\n\ \r\n\ @author\ Ana\ Posada\r\n\ @version\ October\ 2016\r\n
+comment1.params=arg
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ \ \ Main\ Method\r\n
+comment2.params=
+comment2.target=CustomerGUI()
+comment2.text=\r\n\ \ \ \ Constructor\ -\ instantiates\ and\ displays\ all\ of\ the\ GUI\ commponents\r\n
+comment3.params=list
+comment3.target=void\ displayCustomers(java.util.ArrayList)
+comment3.text=\r\n\ List\ all\ entries\ given\ an\ ArrayList\ of\ customers.\ \ Include\ a\ final\r\n\ line\ with\ the\ number\ of\ customers\ listed\r\n\r\n\ \ @param\ ArrayList\ <Customer>\ \ list\ of\ customers\r\n
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\r\n\ Respond\ to\ menu\ selections\ and\ button\ clicks\r\n\r\n\ \ @param\ e\ the\ button\ or\ menu\ item\ that\ was\ selected\r\n
+comment5.params=
+comment5.target=void\ openFile()
+comment5.text=\r\n\ \ \ \ In\ response\ to\ the\ menu\ selection\ -\ open\ a\ data\ file\r\n
+comment6.params=
+comment6.target=void\ setupMenus()
+comment6.text=\r\n\ \ \ \ Set\ up\ the\ menu\ items\r\n
+numComments=7
